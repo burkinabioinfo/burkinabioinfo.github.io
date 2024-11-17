@@ -1,5 +1,5 @@
 <div style="display:flex">
-<img src="docs/public/BBi_logo.png" style="display: block; margin: 0 auto; width: 30%; height: 30%;">
+<img src="docs/public/BBi_logo.png" style="display: block; margin: 0 auto; width: 25%; height: 30%;">
 </div
 
 
@@ -23,7 +23,7 @@ Our mission is to empower the scientific community with cutting-edge bioinformat
 - Training sessions in OMICs and bioinformatics.
 - Expert consultation for data interpretation and research projects.
 
-Who Can Benefit?
+## Who Can Benefit?
 BurkinaBioinfo is open to:
 
 - Researchers and academics.
