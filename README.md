@@ -35,7 +35,7 @@ BurkinaBioinfo is open to:
 ## Coordination
 The coordination team is composed of faculty members from Joseph KI-ZERBO University (UJKZ) and researchers from the National Center for Scientific and Technological Research (CNRST).
 
-[More information on the BBi web site](https://github.com/burkinabioinfo/burkinabioinfo.github.io/)
+[More information on the BBi web site](https://burkinabioinfo.github.io/)
 
 <div style="display:flex">
 <img src="docs/public/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 16%;">
