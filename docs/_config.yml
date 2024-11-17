@@ -1,0 +1,30 @@
+# Dependencies
+# markdown:         redcarpet
+# highlighter:      pygments
+
+# Permalinks
+# permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            BBi
+tagline:          'One month course'
+description:      'From sequencing data production to analysis for agriculture and health'
+#baseurl: ""
+url:              'burkinabioinfo.github.io'
+author:
+  name:           'Ezechiel B. TIBIRI'
+  mail:            ezechiel.tibiri@ujkz.bf'
+
+
+#paginate:         5
+
+# Custom vars
+#version:          2.1.0
+
+github:
+  repo:           https://github.com/burkinabioinfo/burkinabioinfo.github.io
+
+# Exclude specific pages and files from the site build
+exclude:
+  - course/*
