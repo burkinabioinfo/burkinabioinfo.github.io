@@ -40,8 +40,9 @@ The coordination team is composed of faculty members from Joseph KI-ZERBO Univer
 <div style="display:flex">
 <img src="img/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 16%;">
 <img src="img/logo_cnsrt.png" style="display: block; margin: 0 auto; width: 16%;">
-<img src="img/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 16%;">
-<img src="img/logo_cnsrt.png" style="display: block; margin: 0 auto; width: 16%;">
+<img src="img/logo_inera.jpeg" style="display: block; margin: 0 auto; width: 16%;">
+<img src="img/logo_irss.png" style="display: block; margin: 0 auto; width: 16%;">
+<img src="img/logo_labios.png" style="display: block; margin: 0 auto; width: 16%;">
 </div>
 
 ## Contact
