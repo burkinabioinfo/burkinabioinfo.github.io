@@ -10,9 +10,9 @@
   <!-- Dynamic page title -->
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
+      {{ site.title }} · {{ site.tagline }}
     {% else %}
-      {{ page.title }} &middot; {{ site.title }}
+      {{ page.title }} · {{ site.title }}
     {% endif %}
   </title>
 
@@ -21,6 +21,9 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/hyde.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <!-- Custom stylesheet -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/style.css">
 
   <!-- Icons -->
   <link rel="apple-touch-icon" sizes="144x144" href="{{ site.baseurl }}/public/BBi_logo.png">
