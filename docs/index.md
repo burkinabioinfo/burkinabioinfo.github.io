@@ -9,7 +9,7 @@ title: Home
 
 <br/>
 
-## BurkinaBioinfo (BBi) Platform
+## **BurkinaBioinfo (BBi) Platform**
 
 Welcome to **BBi**, a cutting-edge platform for bioinformatics and computational biology. Hosted at **Université Joseph Ki-Zerbo** in Ouagadougou, Burkina Faso, BurkinaBioinfo is dedicated to advancing genomic research through state-of-the-art tools, expertise, and training.  
 
