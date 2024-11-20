@@ -1,5 +1,5 @@
 <div style="display:flex">
-<img src="docs/public/BBi_logo.png" style="display: block; margin: 0 auto; width: 25%; height: 30%;">
+<img src="docs/img/BBi_logo.png" style="display: block; margin: 0 auto; width: 20%; height: 25%;">
 </div
 
 
@@ -38,8 +38,10 @@ The coordination team is composed of faculty members from Joseph KI-ZERBO Univer
 [More information on the BBi web site](https://burkinabioinfo.github.io/)
 
 <div style="display:flex">
-<img src="docs/public/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 16%;">
-<img src="docs/public/logo_cnsrt.png" style="display: block; margin: 0 auto; width: 16%;">
+<img src="docs/img/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 16%;">
+<img src="docs/img/logo_cnsrt.png" style="display: block; margin: 0 auto; width: 16%;">
+<img src="docs/img/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 16%;">
+<img src="docs/img/logo_cnsrt.png" style="display: block; margin: 0 auto; width: 16%;">
 </div>
 
 ## Contact
