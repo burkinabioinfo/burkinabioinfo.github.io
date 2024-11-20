@@ -1,31 +1,37 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
+    <!-- About Section -->
     <div class="sidebar-about">
-         <h1>
-         <!-- <a href="https://burkinabioinfo.github.io/"> -->
+      <h1>
+        <!-- Dynamic site title -->
+        <a href="{{ site.url }}">
           {{ site.title }}
         </a>
       </h1>
-
-    
-           <p class="lead">{{ site.description }}</p>
+      <p class="lead">{{ site.description }}</p>
     </div>
 
+    <!-- Navigation Menu -->
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="{{ site.url }}">Home</a>
+      <a class="sidebar-nav-item{% if page.url == "/" %} active{% endif %}" href="{{ site.url }}">Home</a>
 
-      {% assign pages_list = site.pages %}
+      <!-- Dynamic Page Links -->
+      {% assign pages_list = site.pages | sort: 'order' %}
       {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
+        {% if node.title and node.layout == "page" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
+            {{ node.title }}
+          </a>
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}" target="_blank">GitHub project</a>
+      <!-- GitHub Link -->
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}" target="_blank" rel="noopener noreferrer">
+        GitHub Project
+      </a>
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <!-- Footer -->
+    <p class="sidebar-footer">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
