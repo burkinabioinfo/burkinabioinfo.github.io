@@ -49,11 +49,11 @@ The resource material is licensed under the Creative Commons Attribution 4.0 Int
 
 
 <div style="display:flex">
-<img src="img/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 16%;">
-<img src="img/logo_cnsrt.png" style="display: block; margin: 0 auto; width: 16%;">
-<img src="img/logo_inera.jpeg" style="display: block; margin: 0 auto; width: 16%;">
-<img src="img/logo_irss.png" style="display: block; margin: 0 auto; width: 16%;">
-<img src="img/logo_labios.jpg" style="display: block; margin: 0 auto; width: 16%;">
+<img src="public/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 16%;">
+<img src="public/logo_cnsrt.png" style="display: block; margin: 0 auto; width: 16%;">
+<img src="public/logo_inera.jpeg" style="display: block; margin: 0 auto; width: 16%;">
+<img src="public/logo_irss.png" style="display: block; margin: 0 auto; width: 16%;">
+<img src="public/logo_labios.jpg" style="display: block; margin: 0 auto; width: 16%;">
 </div>
 
 
