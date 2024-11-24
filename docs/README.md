@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-        <img src="docs/public/BBi_logo.png" style="width: 15%; height: auto;" alt="BBi Logo">
+        <img src="public/BBi_logo.png" style="width: 15%; height: auto;" alt="BBi Logo">
     </div>
     <h2><strong>BurkinaBioinfo (BBi) Platform</strong></h2>
     <p>Welcome to <strong>BBi</strong>, a cutting-edge platform for bioinformatics and computational biology. Hosted at <strong>Université Joseph Ki-Zerbo</strong> in Ouagadougou, Burkina Faso, <strong>BurkinaBioinfo</strong> is committed to advancing genomic research through state-of-the-art tools, expertise, and training.</p>
@@ -35,33 +35,25 @@
     <hr>
     <h3><strong>Coordination</strong></h3>
     <p>The <strong>BurkinaBioinfo</strong> platform is managed by faculty members from <strong>Université Joseph Ki-Zerbo (UJKZ)</strong> and researchers from the <strong>National Center for Scientific and Technological Research (CNRST)</strong>. Together, they bring expertise and dedication to support innovation in bioinformatics.</p>
-    <p>For more information, visit the <strong>BBi website</strong>.</p>
-    <hr>
-    <h3><strong>Contact</strong></h3>
-    <div style="display: flex; align-items: center; margin-top: 20px;">
-        <div style="margin-right: 10px;">
-            <img src="public/icon_email-5.png" alt="Email Icon" style="width: 24px; height: auto;">
-        </div>
-        <div>
-            <p>For inquiries or collaboration opportunities, contact us at:
-                <a href="mailto:bioinfo@ujkz.bf">bioinfo@ujkz.bf</a>
-            </p>
-        </div>
-    <hr>
-    <div style="display: flex; align-items: center; margin-top: 20px;">
-        <div style="margin-right: 10px;">
-            <img src="public/icon_apply-5.png" alt="Apply Icon" style="width: 24px; height: auto;">
-        </div>
-            </p>
-        </div>
+    
+<h3><strong>Contact</strong></h3>
+<div>
+    For inquiries or collaboration opportunities, contact us at:  
+    <a href="mailto:bioinfo@ujkz.bf">bioinfo@ujkz.bf</a>
+</div>
+<hr>
+<div style="display: flex; align-items: center; margin-top: 20px;">
+    <div style="margin-right: 10px;">
+        <img src="public/icon_apply-5.png" alt="Apply Icon" style="width: 24px; height: auto;">
     </div>
-    <hr>
-    <div style="display: flex; justify-content: center; margin-top: 20px;">
-        <img src="public/logo_ujkz.jpeg" style="width: 16%; margin: 0 10px;" alt="UJKZ Logo">
-        <img src="public/logo_cnsrt.png" style="width: 16%; margin: 0 10px;" alt="CNRST Logo">
-        <img src="public/logo_inera.jpg" style="width: 16%; margin: 0 10px;" alt="INERA Logo">
-        <img src="public/logo_irss.png" style="width: 16%; margin: 0 10px;" alt="IRSS Logo">
-        <img src="public/logo_labios.jpg" style="width: 16%; margin: 0 10px;" alt="SVT Logo">
+    <div>
+        <br>
     </div>
-
-
+</div>
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+    <img src="public/logo_ujkz.jpeg" style="width: 16%; margin: 0 10px;" alt="UJKZ Logo">
+    <img src="public/logo_cnsrt.png" style="width: 16%; margin: 0 10px;" alt="CNRST Logo">
+    <img src="public/logo_inera.jpg" style="width: 16%; margin: 0 10px;" alt="INERA Logo">
+    <img src="public/logo_irss.png" style="width: 16%; margin: 0 10px;" alt="IRSS Logo">
+    <img src="public/logo_labios.jpg" style="width: 16%; margin: 0 10px;" alt="SVT Logo">
+</div>
