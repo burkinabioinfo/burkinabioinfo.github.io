@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-        <img src="docs/public/BBi_logo.png" style="width: 15%; height: auto;" alt="BBi Logo">
+        <img src="public/BBi_logo.png" style="width: 15%; height: auto;" alt="BBi Logo">
     </div>
     <h2><strong>BurkinaBioinfo (BBi) Platform</strong></h2>
     <p>Welcome to <strong>BBi</strong>, a cutting-edge platform for bioinformatics and computational biology. Hosted at <strong>Université Joseph Ki-Zerbo</strong> in Ouagadougou, Burkina Faso, <strong>BurkinaBioinfo</strong> is committed to advancing genomic research through state-of-the-art tools, expertise, and training.</p>
@@ -54,23 +54,11 @@ title: Home
         </div>
     </div>
     <hr>
-    <h3><strong>Applications</strong></h3>
-    <div style="display: flex; align-items: center; margin-top: 20px;">
-        <div style="margin-right: 10px;">
-            <img src="public/icon_apply-5.png" alt="Apply Icon" style="width: 24px; height: auto;">
-        </div>
-        <div>
-            <p>We are currently accepting applications.
-               <strong>15 places available</strong>.
-            </p>
-        </div>
-    </div>
-    <hr>
     <div style="display: flex; justify-content: center; margin-top: 20px;">
-        <img src="docs/public/logo_ujkz.jpeg" style="width: 16%; margin: 0 10px;" alt="UJKZ Logo">
-        <img src="docs/public/logo_cnsrt.png" style="width: 16%; margin: 0 10px;" alt="CNRST Logo">
-        <img src="docs/public/logo_inera.jpeg" style="width: 16%; margin: 0 10px;" alt="INERA Logo">
-        <img src="docs/public/logo_irss.png" style="width: 16%; margin: 0 10px;" alt="IRSS Logo">
-        <img src="docs/public/logo_labios.jpg" style="width: 16%; margin: 0 10px;" alt="SVT Logo">
+        <img src="public/logo_ujkz.jpeg" style="width: 16%; margin: 0 10px;" alt="UJKZ Logo">
+        <img src="public/logo_cnsrt.png" style="width: 16%; margin: 0 10px;" alt="CNRST Logo">
+        <img src="public/logo_inera.jpg" style="width: 16%; margin: 0 10px;" alt="INERA Logo">
+        <img src="public/logo_irss.png" style="width: 16%; margin: 0 10px;" alt="IRSS Logo">
+        <img src="public/logo_labios.jpg" style="width: 16%; margin: 0 10px;" alt="SVT Logo">
     </div>
 </div>
