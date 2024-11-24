@@ -65,4 +65,3 @@ Our mission is to empower the scientific community by providing innovative bioin
         <img src="public/logo_irss.png" style="width: 16%; margin: 0 10px;" alt="IRSS Logo">
         <img src="public/logo_labios.jpg" style="width: 16%; margin: 0 10px;" alt="SVT Logo">
     </div>
-</div>
