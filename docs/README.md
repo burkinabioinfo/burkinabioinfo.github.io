@@ -64,7 +64,7 @@
     <div style="display: flex; justify-content: center; margin-top: 20px;">
         <img src="img/logo_ujkz.jpeg" style="width: 16%; margin: 0 10px;" alt="UJKZ Logo">
         <img src="img/logo_cnsrt.png" style="width: 16%; margin: 0 10px;" alt="CNRST Logo">
-        <img src="img/public/logo_inera.jpeg" style="width: 16%; margin: 0 10px;" alt="INERA Logo">
+        <img src="img/public/logo_inera.jpg" style="width: 16%; margin: 0 10px;" alt="INERA Logo">
         <img src="img/public/logo_irss.png" style="width: 16%; margin: 0 10px;" alt="IRSS Logo">
         <img src="img/public/logo_labios.jpg" style="width: 16%; margin: 0 10px;" alt="SVT Logo">
     </div>
