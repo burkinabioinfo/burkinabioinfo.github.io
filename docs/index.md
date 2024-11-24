@@ -4,12 +4,17 @@ title: Home
 ---
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-        <img src="public/BBi_logo.png" style="width: 15%; height: auto;" alt="BBi Logo">
-    </div>
-    <h2><strong>BurkinaBioinfo (BBi) Platform</strong></h2>
-    <p>Welcome to <strong>BBi</strong>, a cutting-edge platform for bioinformatics and computational biology. Hosted at <strong>Université Joseph Ki-Zerbo</strong> in Ouagadougou, Burkina Faso, <strong>BurkinaBioinfo</strong> is committed to advancing genomic research through state-of-the-art tools, expertise, and training.</p>
-    <p>Our mission is to empower the scientific community by providing innovative bioinformatics solutions that support biological data interpretation, groundbreaking research, and capacity-building in OMICs and bioinformatics.</p>
-    <hr>
+<img src="public/BBi_logo.png" style="width: 15%; height: auto;" alt="BBi Logo">
+</div>
+
+<br />
+<div>
+ <p align="justify">
+# **BurkinaBioinfo (BBi) Platform**
+Welcome to <strong>BBi</strong>, a cutting-edge platform for bioinformatics and computational biology. Hosted at <strong>Université Joseph Ki-Zerbo</strong> in Ouagadougou, Burkina Faso, <strong>BurkinaBioinfo</strong> is committed to advancing genomic research through state-of-the-art tools, expertise, and training.
+Our mission is to empower the scientific community by providing innovative bioinformatics solutions that support biological data interpretation, groundbreaking research, and capacity-building in OMICs and bioinformatics.
+
+
     <h3><strong>What We Offer</strong></h3>
     <ul>
         <li><strong>Comprehensive Resources:</strong> Access to a wide range of bioinformatics tools.</li>
