@@ -47,9 +47,7 @@
                 <a href="mailto:bioinfo@ujkz.bf">bioinfo@ujkz.bf</a>
             </p>
         </div>
-    </div>
     <hr>
-    <h3><strong>Applications</strong></h3>
     <div style="display: flex; align-items: center; margin-top: 20px;">
         <div style="margin-right: 10px;">
             <img src="public/icon_apply-5.png" alt="Apply Icon" style="width: 24px; height: auto;">
