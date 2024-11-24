@@ -8,8 +8,8 @@
 
 # Setup
 title:            BBi
-tagline:          'One month course'
-description:      'From sequencing data production to analysis for agriculture and health'
+tagline:          'BurkinaBioinfo Platform'
+description:      'Welcome to BBi, a cutting-edge platform for bioinformatics and computational biology.'
 #baseurl: ""
 url:              'burkinabioinfo.github.io'
 author:
