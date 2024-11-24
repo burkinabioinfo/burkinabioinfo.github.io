@@ -54,19 +54,16 @@
         <div style="margin-right: 10px;">
             <img src="public/icon_apply-5.png" alt="Apply Icon" style="width: 24px; height: auto;">
         </div>
-        <div>
-            <p>We are currently accepting applications.
-               <strong>15 places available</strong>.
             </p>
         </div>
     </div>
     <hr>
     <div style="display: flex; justify-content: center; margin-top: 20px;">
-        <img src="img/logo_ujkz.jpeg" style="width: 16%; margin: 0 10px;" alt="UJKZ Logo">
-        <img src="img/logo_cnsrt.png" style="width: 16%; margin: 0 10px;" alt="CNRST Logo">
-        <img src="img/public/logo_inera.jpg" style="width: 16%; margin: 0 10px;" alt="INERA Logo">
-        <img src="img/public/logo_irss.png" style="width: 16%; margin: 0 10px;" alt="IRSS Logo">
-        <img src="img/public/logo_labios.jpg" style="width: 16%; margin: 0 10px;" alt="SVT Logo">
+        <img src="public/logo_ujkz.jpeg" style="width: 16%; margin: 0 10px;" alt="UJKZ Logo">
+        <img src="public/logo_cnsrt.png" style="width: 16%; margin: 0 10px;" alt="CNRST Logo">
+        <img src="public/logo_inera.jpg" style="width: 16%; margin: 0 10px;" alt="INERA Logo">
+        <img src="public/logo_irss.png" style="width: 16%; margin: 0 10px;" alt="IRSS Logo">
+        <img src="public/logo_labios.jpg" style="width: 16%; margin: 0 10px;" alt="SVT Logo">
     </div>
 
 
