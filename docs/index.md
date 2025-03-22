@@ -58,6 +58,16 @@ Our mission is to empower the scientific community by providing innovative bioin
         </div>
     </div>
     <hr>
+    <h3><strong>Our Publications</strong></h3>
+    <p align="justify">
+    We actively contribute to the advancement of bioinformatics and computational biology through impactful scientific publications. Here is one of our latest contributions:
+    </p>
+
+    <div style="background-color: #f9f9f9; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
+        <p align="justify"><strong>Ezechiel B Tibiri, Palwende R Boua, Issiaka Soulama, Christine Dubreuil-Tranchant, Ndomassi Tando, Charlotte Tollenaere, Christophe Brugidou, Romaric K Nanema, Fidèle Tiendrebeogo</strong>. <em>Challenges and opportunities of developing bioinformatics platforms in Africa: the case of BurkinaBioinfo at Joseph Ki-Zerbo University, Burkina Faso</em>. <strong>Briefings in Bioinformatics</strong>, Volume 26, Issue 1, January 2025, bbaf040. <a href="https://doi.org/10.1093/bib/bbaf040" target="_blank">https://doi.org/10.1093/bib/bbaf040</a></p>
+    </div>
+
+    <hr>
     <div style="display: flex; justify-content: center; margin-top: 20px;">
         <img src="public/logo_ujkz.jpeg" style="width: 16%; margin: 0 10px;" alt="UJKZ Logo">
         <img src="public/logo_cnsrt.png" style="width: 16%; margin: 0 10px;" alt="CNRST Logo">
